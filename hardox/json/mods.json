@@ -1,0 +1,52 @@
+{
+  "mods": [
+    {
+      "name": "1.16.5SecurityCraftv1.9.1.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/1.16.5SecurityCraftv1.9.1.jar",
+      "sha1": "6cb95542dbb3e4fa008a30c680bb6e60ff2eec7f",
+      "size": 2695383
+    },
+    {
+      "name": "cfm-7.0.0pre22-1.16.3.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/cfm-7.0.0pre22-1.16.3.jar",
+      "sha1": "565ec70fe30e3cd711e2b841de3265f176897283",
+      "size": 2033912
+    },
+    {
+      "name": "create-mc1.16.5_v0.3.2g.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/create-mc1.16.5_v0.3.2g.jar",
+      "sha1": "5b32b0310d037deed14200e3b748bd02d46d9471",
+      "size": 11564279
+    },
+    {
+      "name": "Electrodynamics-1.16.5-0.5.0-2.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/Electrodynamics-1.16.5-0.5.0-2.jar",
+      "sha1": "2ec367f2699359f461d1c55f9573a32ca2867b25",
+      "size": 3186349
+    },
+    {
+      "name": "flywheel-1.16-0.2.5.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/flywheel-1.16-0.2.5.jar",
+      "sha1": "30dbb119ce3d455bee065c0bef04a00827b3a5b3",
+      "size": 420923
+    },
+    {
+      "name": "MegaMeteors1.2.71.16.5.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/MegaMeteors1.2.71.16.5.jar",
+      "sha1": "f2d2f3b319ec1c526cb5cfc4b2c76196771af8ee",
+      "size": 1651908
+    },
+    {
+      "name": "Nuclear_Science-1.16.5-0.4.0-1.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/Nuclear_Science-1.16.5-0.4.0-1.jar",
+      "sha1": "28831cf2235ee95e86bb6bee08563975751c0204",
+      "size": 1393903
+    },
+    {
+      "name": "OptiFine_1.16.5_HD_U_G8.jar",
+      "downloadURL": "https://potatogames.co/mods/mods/OptiFine_1.16.5_HD_U_G8.jar",
+      "sha1": "137363842c5bfdebb72356a4079faeef3157eb3c",
+      "size": 6046996
+    }
+  ]
+}
